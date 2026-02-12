@@ -1,0 +1,27 @@
+# Binaries
+auto-commit
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Vendor
+vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment and repos
+.env
+repos/
+*.swp
+*.swo
+*~
