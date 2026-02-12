@@ -123,3 +123,5 @@ auto-commit/
 ## License
 
 MIT
+
+GOOS=linux GOARCH=amd64 go build -o auto-commit .
