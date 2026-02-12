@@ -125,3 +125,5 @@ auto-commit/
 MIT
 
 GOOS=linux GOARCH=amd64 go build -o auto-commit .
+
+chmod +x auto-commit
